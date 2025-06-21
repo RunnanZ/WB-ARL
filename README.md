@@ -39,9 +39,9 @@ Main modules description
 ----------------
 Citation 
 ---------------- 
-If you use this code, please also cite the reference paper:
+If you use this code, please cite the paper:
 
-Guo, Min, et al. "Rapid image deconvolution and multiview fusion for optical microscopy." Nature biotechnology 38.11 (2020): 1337-1346. https://doi.org/10.1038/s41587-020-0560-x
+Du, Heheng, et al. "Wiener–Butterworth Accelerated Richardson–Lucy Deconvolution for Rapid 3D Fluorescence Microscopy"
 
 ----------------
 IMPORTANT NOTE 
@@ -54,5 +54,5 @@ Reference:
 
 1.Du, Heheng, et al. "Wiener–Butterworth Accelerated Richardson–Lucy Deconvolution for Rapid 3D Fluorescence Microscopy"
 
-2.Guo, Min, et al. "Rapid image deconvolution and multiview fusion for optical microscopy." Nature biotechnology 38.11 (2020): 1337-1346. 
+2.Guo, Min, et al. "Rapid image deconvolution and multiview fusion for optical microscopy." Nature biotechnology 38.11 (2020): 1337-1346.  https://doi.org/10.1038/s41587-020-0560-x
 
