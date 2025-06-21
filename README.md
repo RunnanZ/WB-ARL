@@ -1,5 +1,4 @@
 # WB-ARL
-WB-ARL
 
 Title:	 Matlab code for "Wiener–Butterworth Accelerated Richardson–Lucy Deconvolution for Rapid 3D Fluorescence Microscopy"
 
