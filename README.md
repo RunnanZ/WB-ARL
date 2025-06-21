@@ -2,7 +2,7 @@
 WB-ARL
 Title:	 Matlab code for "Wiener–Butterworth Accelerated Richardson–Lucy Deconvolution for Rapid 3D Fluorescence Microscopy"
 Version: 1.0 
-Copyright: 2025,HEHENG DU,  RUNNAN ZHANG, AND CHAO ZUO
+Copyright: 2025, HEHENG DU, RUNNAN ZHANG, AND CHAO ZUO
 
 Edited based on the reference [1][2].
 
@@ -46,11 +46,12 @@ Guo, Min, et al. "Rapid image deconvolution and multiview fusion for optical mic
 ----------------
 IMPORTANT NOTE 
 ---------------- 
-Should you have any questions regarding this code and the corresponding results, please contact HeHeng Du (hehengdu@njust.edu.cn).
+Should you have any questions regarding this code and the corresponding results, please contact Heheng Du (hehengdu@njust.edu.cn), Runnan Zhang (runnanzhang@njust.edu.cn), or  Chao Zuo (zuochao@njust.edu.cn).
 
 
 
 Reference:
 1.Du, Heheng, et al. "Wiener–Butterworth Accelerated Richardson–Lucy Deconvolution for Rapid 3D Fluorescence Microscopy"
+
 2.Guo, Min, et al. "Rapid image deconvolution and multiview fusion for optical microscopy." Nature biotechnology 38.11 (2020): 1337-1346. 
 
