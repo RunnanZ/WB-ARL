@@ -25,6 +25,7 @@ The code is tested in MATLAB 2022b (64bit) under the  Windows 11 64bit version w
 3. Run the .m files with the prefix of "test" to process the example samples.
 
 a). The raw data from wide-field fluorescence should be placed in the “Raw” folder. Some example data for testing are provided, including 3D stacks of real Chlorella (collected with a 40x/0.75NA objective lens).
+
 b). PSF files in the .tif format should be placed in the folder. Readers can also generate simulated ideal PSFs based on wave optics theory and phase space theory.
 
 
